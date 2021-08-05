@@ -1,0 +1,8 @@
+# SimpleChat
+SimpleChat Application, built using Java for the Cisco HS Summer Job Shadowing/Internship program
+
+RUN SERVER BEFORE RUNNING CLIENTS
+
+YOU CAN COMMUNICATE TO DIFFERENT CLIENTS THROUGH YOUR LOCAL NETWORK USING THIS SOFTWARE
+
+- DEVELOPED BY ADRIAN SIMON
